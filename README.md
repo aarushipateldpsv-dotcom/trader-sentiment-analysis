@@ -6,7 +6,6 @@ This project analyzes the relationship between **market sentiment (Fear vs Greed
 The goal is to uncover actionable insights that can help design smarter trading strategies based on market psychology.
 
 ---
-
 ## 🎯 Objective
 - Analyze how market sentiment affects trader performance
 - Identify behavioral changes during Fear vs Greed periods
